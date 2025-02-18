@@ -34,7 +34,7 @@ A full-stack web application that scrapes real-time and historical stock & crypt
 - Provide confidence intervals and trend probabilities.
 
 ### Part 6: Additional Features
-- Fetche stock/crypto news and analyzes sentiment.
+- Fetch stock/crypto news and analyzes sentiment.
 - Notify users of major market movements.
 - Track investment discussions on Twitter, Reddit, etc.
 - Help users set and track investment goals.
